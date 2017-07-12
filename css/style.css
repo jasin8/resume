@@ -1,0 +1,189 @@
+body{
+	width: 1170px;
+	margin: 25px auto;
+}
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+/*Head Section CSS*/
+.Head-part{
+	background-color: #F3F3F3;
+	height: 170px;
+	border-bottom: 3.5px solid #B06D00;
+}
+.container{
+
+}
+.profile-img{
+	width: 25%;
+	
+	padding: 21px 0 0 30px;
+}
+.profile-img img{
+	width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    float: left;
+
+}
+.name{
+	    width: 50%;
+	    float: left;
+	    margin: -2px;
+	    margin-left: 40px;
+	    font-family: cursive;
+}
+.name h1{
+	     font-size: 45px;
+         margin-top: 9px;
+         margin-bottom: -27px;
+}
+.name h2{
+	     font-size: 29px;
+    
+}
+.contact{
+	    float: right;
+	    padding-right: 20px;
+	    width: 25%;
+}
+.contact p{
+        /* margin: 15px; */
+        font-size: 20px;
+        color: #443747;
+        margin: 0 auto;
+        margin: 10px 0;
+}
+
+.contact span p{
+        margin: 15px;
+        font-size: 20px;
+        color: #443747;
+}
+
+/*Profile Section CSS*/
+.profile-part{
+	    background-color: #F3F3F3;
+        padding: 1px 40px 1px 35px;
+        border-bottom: 0px solid gray;
+}
+.container{
+    height: 327px;
+}
+.cv-title{
+	font-size: 27px;
+	width: 25%;
+	color: #272824;
+}
+.cv-title h1 i{
+	color: #B7750E;
+}
+.partision{
+	width: 75%;
+	float: right;
+	margin-top: -162px;
+	padding-left: 15px;
+}
+.partision p{
+	    font-size: 21px;
+        margin-top: 23px;
+        text-align: justify;
+}
+.partision h1{
+	margin-bottom: -15px;
+	font-size: 33px;
+
+}
+.partision ul{padding: 0;}
+.partision ul li{
+	list-style: none;
+	font-size: 18px;
+}
+
+.f-size{
+	font-size: 19px;
+}
+
+.container2{
+	height: 187px;
+}
+
+.skill-list{
+	column-count: 3;
+	list-style: none;
+	font-size: 20px;
+	margin-top: 29px;
+}
+.container3{
+	height: 122px;
+}
+.partision{
+	width: 75%;
+	float: right;
+	margin-top: -162px;
+	padding-left: 15px;
+}
+.partision h1{
+	    font-size: 30px;
+        margin-top:49px;
+        text-align: justify;
+}
+.partision h6{
+	margin-bottom: -15px;
+	font-size: 10px;
+	line-height: 1;
+}
+.container4{
+	height: 150px;
+}
+.partision{
+	width: 75%;
+	float: right;
+	margin-top: -162px;
+	padding-left: 15px;
+}
+.partision h1{
+	    font-size: 30px;
+        margin-top: 28px;
+        text-align: justify;
+}
+.partision h6{
+	margin-bottom: -15px;
+	font-size: 10px;
+	line-height: 1;
+
+}
+
+.footer-section{
+	background-color: black;
+	height: 170px;
+	border-bottom: 3.5px solid #B06D00;
+}
+.name1{
+	    width: 70%;
+	    float: left;
+	    margin: -2px;
+	    margin-left: 40px;
+	    font-family: cursive;
+}
+.name1 h1{
+	     font-size: 45px;
+         margin-top: 20px;
+         margin-bottom: -27px;
+         color: white;
+}
+.name1 h2{
+	     font-size: 29px;
+	     color: white;
+    
+}
+.contact1{
+
+}
+.contact1 p{
+	color: white;
+}
+
+
